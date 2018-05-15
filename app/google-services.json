@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "94785869003",
+    "firebase_url": "https://facedetection-8719d.firebaseio.com",
+    "project_id": "facedetection-8719d",
+    "storage_bucket": "facedetection-8719d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94785869003:android:ca982c24ab4b2127",
+        "android_client_info": {
+          "package_name": "com.ashutosh.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94785869003-1t2go6p7l0p1ij4dpqmbsbcits9e7dql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashutosh.facedetection",
+            "certificate_hash": "29c7f1abc993b546eb224e089999db5c56aa8eb2"
+          }
+        },
+        {
+          "client_id": "94785869003-04mi4808nhhtgs2veg3uun1uqqfpm5k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO7d5qQLfCyr-4ca04anyVIDVCH4P3L20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94785869003-04mi4808nhhtgs2veg3uun1uqqfpm5k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
